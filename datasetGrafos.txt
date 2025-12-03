@@ -1,0 +1,111 @@
+from,to,weight
+Marcelo,mongodb grau 3 (possui conhecimento básico),1
+Marcelo,express grau 2 (já ouviu falar),1
+Marcelo,react grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Marcelo,rn grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Marcelo,nest grau 3 (possui conhecimento básico),1
+Marcelo,prisma grau 1 (não possui conhecimento),1
+Marcelo,dart grau 3 (possui conhecimento básico),1
+Marcelo,cypress grau 3 (possui conhecimento básico),1
+Marcelo,jest grau 1 (não possui conhecimento),1
+Marcelo,ec2 grau 2 (já ouviu falar),1
+Daniel,mongodb grau 3 (possui conhecimento básico),1
+Daniel,express grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Daniel,react grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Daniel,rn grau 2 (já ouviu falar),1
+Daniel,nest grau 2 (já ouviu falar),1
+Daniel,prisma grau 2 (já ouviu falar),1
+Daniel,dart grau 2 (já ouviu falar),1
+Daniel,cypress grau 2 (já ouviu falar),1
+Daniel,jest grau 2 (já ouviu falar),1
+Daniel,ec2 grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Eduardo,mongodb grau 2 (já ouviu falar),1
+Eduardo,express grau 2 (já ouviu falar),1
+Eduardo,react grau 2 (já ouviu falar),1
+Eduardo,rn grau 2 (já ouviu falar),1
+Eduardo,nest grau 2 (já ouviu falar),1
+Eduardo,prisma grau 1 (não possui conhecimento),1
+Eduardo,dart grau 2 (já ouviu falar),1
+Eduardo,cypress grau 1 (não possui conhecimento),1
+Eduardo,jest grau 1 (não possui conhecimento),1
+Eduardo,ec2 grau 3 (possui conhecimento básico),1
+Gustavo,mongodb grau 2 (já ouviu falar),1
+Gustavo,express grau 1 (não possui conhecimento),1
+Gustavo,react grau 3 (possui conhecimento básico),1
+Gustavo,rn grau 2 (já ouviu falar),1
+Gustavo,nest grau 1 (não possui conhecimento),1
+Gustavo,prisma grau 1 (não possui conhecimento),1
+Gustavo,dart grau 1 (não possui conhecimento),1
+Gustavo,cypress grau 1 (não possui conhecimento),1
+Gustavo,jest grau 1 (não possui conhecimento),1
+Gustavo,ec2 grau 2 (já ouviu falar),1
+Ana,mongodb grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Ana,express grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Ana,react grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Ana,rn grau 3 (possui conhecimento básico),1
+Ana,nest grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Ana,prisma grau 3 (possui conhecimento básico),1
+Ana,dart grau 2 (já ouviu falar),1
+Ana,cypress grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Ana,jest grau 3 (possui conhecimento básico),1
+Ana,ec2 grau 3 (possui conhecimento básico),1
+Bruno,mongodb grau 1 (não possui conhecimento),1
+Bruno,express grau 3 (possui conhecimento básico),1
+Bruno,react grau 2 (já ouviu falar),1
+Bruno,rn grau 3 (possui conhecimento básico),1
+Bruno,nest grau 3 (possui conhecimento básico),1
+Bruno,prisma grau 2 (já ouviu falar),1
+Bruno,dart grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Bruno,cypress grau 2 (já ouviu falar),1
+Bruno,jest grau 3 (possui conhecimento básico),1
+Bruno,ec2 grau 1 (não possui conhecimento),1
+Carla,mongodb grau 2 (já ouviu falar),1
+Carla,express grau 2 (já ouviu falar),1
+Carla,react grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Carla,rn grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Carla,nest grau 2 (já ouviu falar),1
+Carla,prisma grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Carla,dart grau 3 (possui conhecimento básico),1
+Carla,cypress grau 3 (possui conhecimento básico),1
+Carla,jest grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Carla,ec2 grau 2 (já ouviu falar),1
+Diego,mongodb grau 3 (possui conhecimento básico),1
+Diego,express grau 3 (possui conhecimento básico),1
+Diego,react grau 3 (possui conhecimento básico),1
+Diego,rn grau 2 (já ouviu falar),1
+Diego,nest grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Diego,prisma grau 3 (possui conhecimento básico),1
+Diego,dart grau 1 (não possui conhecimento),1
+Diego,cypress grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Diego,jest grau 2 (já ouviu falar),1
+Diego,ec2 grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Elisa,mongodb grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Elisa,express grau 3 (possui conhecimento básico),1
+Elisa,react grau 2 (já ouviu falar),1
+Elisa,rn grau 1 (não possui conhecimento),1
+Elisa,nest grau 3 (possui conhecimento básico),1
+Elisa,prisma grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Elisa,dart grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Elisa,cypress grau 2 (já ouviu falar),1
+Elisa,jest grau 3 (possui conhecimento básico),1
+Elisa,ec2 grau 3 (possui conhecimento básico),1
+Felipe,mongodb grau 1 (não possui conhecimento),1
+Felipe,express grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Felipe,react grau 1 (não possui conhecimento),1
+Felipe,rn grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Felipe,nest grau 2 (já ouviu falar),1
+Felipe,prisma grau 2 (já ouviu falar),1
+Felipe,dart grau 3 (possui conhecimento básico),1
+Felipe,cypress grau 1 (não possui conhecimento),1
+Felipe,jest grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Felipe,ec2 grau 1 (não possui conhecimento),1
+Giovana,mongodb grau 3 (possui conhecimento básico),1
+Giovana,express grau 2 (já ouviu falar),1
+Giovana,react grau 3 (possui conhecimento básico),1
+Giovana,rn grau 3 (possui conhecimento básico),1
+Giovana,nest grau 1 (não possui conhecimento),1
+Giovana,prisma grau 3 (possui conhecimento básico),1
+Giovana,dart grau 2 (já ouviu falar),1
+Giovana,cypress grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
+Giovana,jest grau 1 (não possui conhecimento),1
+Giovana,ec2 grau 4 (consegue aplicar o conhecimento na prática com autonomia moderada),1
